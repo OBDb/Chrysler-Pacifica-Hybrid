@@ -1,0 +1,44 @@
+command_id: 740.4C0.22A0F2|fc=1
+test_cases:
+- expected_values:
+    CHRYSLER_TP_FR_V2: 34.626
+    CHRYSLER_TT_FR_V2: 22
+  response: |-
+    4C0100862A0F2574801
+    4C02182DCA0F2574801
+- expected_values:
+    CHRYSLER_TP_FR_V2: 36.218
+    CHRYSLER_TT_FR_V2: 31
+  response: |-
+    4C0100862A0F25B511C
+    4C0210BDDA0F25B511C
+- expected_values:
+    CHRYSLER_TP_FR_V2: 36.218
+    CHRYSLER_TT_FR_V2: 31
+  response: |-
+    4C0100862A0F25B515F
+    4C0210BDFA0F25B515F
+- expected_values:
+    CHRYSLER_TP_FR_V2: 36.218
+    CHRYSLER_TT_FR_V2: 32
+  response: |-
+    4C0100862A0F25B5262
+    4C0210BDEA0F25B5262
+- expected_values:
+    CHRYSLER_TP_FR_V2: 37.81
+    CHRYSLER_TT_FR_V2: 38
+  response: |-
+    4C0100862A0F25F5810
+    4C0210BDEA0F25F5810
+- expected_values:
+    CHRYSLER_TP_FR_V2: 37.81
+    CHRYSLER_TT_FR_V2: 39
+  response: |-
+    4C0100862A0F25F590A
+    4C02103DFA0F25F590A
+- expected_values:
+    CHRYSLER_TP_FR_V2: 37.81
+    CHRYSLER_TT_FR_V2: 39
+  response: |-
+    4C0100862A0F25F5954
+    4C0210BDDA0F25F5954
